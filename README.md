@@ -1,5 +1,5 @@
 
-##HI there 🖐, I'M DAM<br>
+#HI there 🖐, I'M DAM<br>
 
 # 💫 About Me:
 coffee ☕, music 🎶 and dark room are my batteries 🦾🔋. <br>my motivation for learning coding is to go to NASA 🚀
