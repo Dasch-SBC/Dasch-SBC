@@ -21,4 +21,5 @@ coffee ☕, music 🎶 and dark room are my batteries 🦾🔋. <br>my motivatio
 ---
 [![](https://visitcount.itsvg.in/api?id=Dasch-SBC&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![spotify-github-profile](/img/spotify-embed.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
